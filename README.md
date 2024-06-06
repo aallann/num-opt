@@ -1,1 +1,3 @@
 # num-opt
+
+Currently, a subset of my own implementations; I will continue expanding it and organise all into folders. You may find currently only my semismooth newton SVM implementation for the standard wisconsin breast cancer dataset. As is typical in numerical optimisation, focus is rather in convergence of our algorithms than in the discriminative performance of the SVM; while more generally if applied to functions, especially those convex, the precision to which we approximate the true mimisers will be dictated by the tolerance or any other relevant stopping criterion, if convergence is achieved. 
